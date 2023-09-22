@@ -1,22 +1,82 @@
 [
-    {"letter":"Aa"},
-    {"letter":"Бб"},
-    {"letter":"Вв"},
-    {"letter":"Гг"},
-    {"letter":"Дд"},
-    {"letter":"Ее"},
-    {"letter":"Ёё"},
-    {"letter":"Жж"},
-    {"letter":"Зз"},
-    {"letter":"Ии"},
-    {"letter":"Йй"},
-    {"letter":"Кк"},
-    {"letter":"Лл"},
-    {"letter":"Мм"},
-    {"letter":"Нн"},
-    {"letter":"Оо"},
-    {"letter":"Пп"},
-    {"letter":"Рр"},
-    {"letter":"Сс"},
-    {"letter":"Тт"}
+    {
+        "letter": "Аа",
+        "let": "а"
+    },
+    {
+        "letter": "Бб",
+        "let": "б"
+    },
+    {
+        "letter": "Вв",
+        "let": "в"
+    },
+    {
+        "letter": "Гг",
+        "let": "г"
+    },
+    {
+        "letter": "Дд",
+        "let": "д"
+    },
+    {
+        "letter": "Ее",
+        "let": "е"
+    },
+    {
+        "letter": "Ёё",
+        "let": "ё"
+    },
+    {
+        "letter": "Жж",
+        "let": "ж"
+    },
+    {
+        "letter": "Зз",
+        "let": "з"
+    },
+    {
+        "letter": "Ии",
+        "let": "и"
+    },
+    {
+        "letter": "Йй",
+        "let": "й"
+    },
+    {
+        "letter": "Кк",
+        "let": "к"
+    },
+    {
+        "letter": "Лл",
+        "let": "л"
+    },
+    {
+        "letter": "Мм",
+        "let": "м"
+    },
+    {
+        "letter": "Нн",
+        "let": "н"
+    },
+    {
+        "letter": "Оо",
+        "let": "о"
+    },
+    {
+        "letter": "Пп",
+        "let": "п"
+    },
+    {
+        "letter": "Рр",
+        "let": "р"
+    },
+    {
+        "letter": "Сс",
+        "let": "с"
+    },
+    {
+        "letter": "Тт",
+        "let": "т"
+    }
 ]
